@@ -36,14 +36,14 @@ body {
     font-weight: bold;
 }
 
-.nav-links {
-    flex-direction: column;
-    width: max-content;
-    text-align: center;
-    margin-top: 25px;
-    list-style: none;
+/*.nav-links {*/
+/*    flex-direction: column;*/
+/*    width: max-content;*/
+/*    text-align: center;*/
+/*    margin-top: 25px;*/
+/*    list-style: none;*/
 
-}
+/*}*/
 
 ul {
     list-style: none;
